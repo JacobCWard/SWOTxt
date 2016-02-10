@@ -17,3 +17,4 @@ S-  Strengths
 W-  Weaknesses  
 O-  Opportunities  
 T-  Threats  
+Other stuff
